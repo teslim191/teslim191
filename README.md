@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a RestAPI using nestjs
-- 🌱 I’m currently learning websocket
+- 🌱 I’m currently learning Prisma
 - 👯 I’m looking to collaborate on microservices projects using NodeJS 
 - 🤔 I’m looking for help with placements into the tech industry
 - 💬 Ask me anything about backend development, web technologies, databases, APIs, Optimization and scalability 
