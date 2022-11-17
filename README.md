@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**teslim191/teslim191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a RestAPI using nestjs
 - 🌱 I’m currently learning Prisma
 - 👯 I’m looking to collaborate on microservices projects using NodeJS 
@@ -17,4 +11,3 @@ Here are some ideas to get you started:
 - LinkedIn: https://www.linkedin.com/mwlite/in/teslim-jimoh-52056818a
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I believe everyone can learn to program.
--->
