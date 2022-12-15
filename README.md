@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a RestAPI using nestjs
-- 🌱 I’m currently learning Prisma
+- 🌱 I’m currently learning C# and .NET
 - 👯 I’m looking to collaborate on microservices projects using NodeJS 
-- 🤔 I’m looking for help with placements into the tech industry
+- 🤔 I’m looking to network and collaborate with developers across the world
 - 💬 Ask me anything about backend development, web technologies, databases, APIs, Optimization and scalability 
 - 📫 How to reach me: 
 - twitter: https://twitter.com/teslim_96
@@ -10,4 +10,4 @@
 - website: https://teslim-jimoh.netlify.app/
 - LinkedIn: https://www.linkedin.com/mwlite/in/teslim-jimoh-52056818a
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I believe everyone can learn to program.
+- ⚡ Fun fact: I learnt PHP and Python concurrently.
