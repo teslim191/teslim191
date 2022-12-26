@@ -4,8 +4,7 @@
 - 👯 I’m looking to collaborate on microservices projects using NodeJS 
 - 🤔 I’m looking to network and collaborate with developers across the world
 - 💬 Ask me anything about backend development, web technologies, databases, APIs, Optimization and scalability 
-- 📫 How to reach me: 
-- twitter: https://twitter.com/teslim_96
+- 📫 How to reach me:
 - mail: teslimjimoh191@gmail.com
 - website: https://teslim-jimoh.netlify.app/
 - LinkedIn: https://www.linkedin.com/mwlite/in/teslim-jimoh-52056818a
