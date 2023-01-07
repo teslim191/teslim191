@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a RestAPI using nestjs
+- 🔭 I’m currently working on a side project using Angular and Express
 - 🌱 I’m currently learning C# and .NET
 - 👯 I’m looking to collaborate on microservices projects using NodeJS 
 - 🤔 I’m looking to network and collaborate with developers across the world
