@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I currently took an Application Support that requires me writing SQL. So, I guess im taking a break from core programming.
+- 🔭 I currently took an Application Support role that requires me to write SQL. So, I guess im taking a break from core programming.
 - 🌱 I’m currently learning C# and .NET
 - 👯 I’m looking to collaborate on microservices projects using NodeJS 
 - 🤔 I’m looking to network and collaborate with developers across the world
