@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🔭 I currently took an Application Support role that requires me to write SQL. So, I guess im taking a break from core programming.
-- 🌱 I’m currently learning C# and .NET
-- 👯 I’m looking to collaborate on microservices projects using NodeJS 
-- 🤔 I’m looking to network and collaborate with developers across the world
-- 💬 Ask me anything about backend development, web technologies, databases, APIs, Optimization and scalability 
+- 🔭 Over the past 1 year, I have greatly worked with APIs, IIS, and SQL.
+- 🌱 I’m currently learning to use Terraform for automation and deployment.
+- 👯 I’m looking to collaborate on microservices projects using NodeJS.
+- 🤔 I’m looking to network and collaborate with developers worldwide.
+- 💬 Ask me about backend development, web technologies, databases, APIs, Optimization and scalability.
 - 📫 How to reach me:
 - mail: teslimjimoh191@gmail.com
 - website: https://teslim-jimoh.netlify.app/
