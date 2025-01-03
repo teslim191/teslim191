@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 Over the past 1 year, I have greatly worked with APIs, IIS, and SQL.
-- 🌱 I’m currently learning to use Terraform for automation and deployment.
+- 🔭 Over the past 2 year, I have greatly worked with APIs, IIS, and SQL.
+- 🌱 I’m currently learning to use Azure devops platform to manage devops processes particularly the CI/CD pipeline and Docker to render my build into a docker image before deployment.
 - 👯 I’m looking to collaborate on microservices projects using NodeJS.
 - 🤔 I’m looking to network and collaborate with developers worldwide.
 - 💬 Ask me about backend development, web technologies, databases, APIs, Optimization and scalability.
