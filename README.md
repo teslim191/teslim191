@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🔭 Over the past 2 year, I have greatly worked with APIs, IIS, and SQL.
-- 🌱 I’m currently learning to use Azure devops platform to manage devops processes particularly the CI/CD pipeline and Docker to render my build into a docker image before deployment.
-- 👯 I’m looking to collaborate on microservices projects using NodeJS.
-- 🤔 I’m looking to network and collaborate with developers worldwide.
-- 💬 Ask me about backend development, web technologies, databases, APIs, Optimization and scalability.
+- 🔭 Over the past 3 year, I have greatly worked with dotnet and nodejs APIs, IIS, Azure, GitHub Actions, azure devops and SQL.
+- 🌱 I’m currently working on Ubuntu VM on Azure and Containers managing CI/CD using github Actions and Docker hub.
+- 👯 I’m looking to collaborate on DevOps/SRE projects using tools like docker, K8, Terraform, Nginx, Linux.
+- 🤔 I’m looking to network and collaborate with developers, SREs, DevOps and Platform Engineers worldwide.
+- 💬 Ask me about backend development, web technologies, databases, APIs, Optimization, observability and scalability.
 - 📫 How to reach me:
 - mail: teslimjimoh191@gmail.com
 - website: https://teslim-jimoh.netlify.app/
